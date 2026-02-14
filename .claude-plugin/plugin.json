@@ -1,5 +1,5 @@
 {
-  "name": "adspirer-mcp",
+  "name": "adspirer-ads-agent",
   "description": "Cross-platform ad management plugin. Create, analyze, and optimize campaigns across Google Ads, Meta Ads, TikTok Ads, and LinkedIn Ads via natural language.",
   "version": "1.1.0",
   "author": {

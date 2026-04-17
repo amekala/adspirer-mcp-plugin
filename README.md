@@ -1,6 +1,8 @@
-# Adspirer MCP Plugin for Claude Code
+# Adspirer Plugin for Claude Code and Cowork
 
-Cross-platform ad management plugin for Claude Code. Create, analyze, and optimize campaigns across **Google Ads, Meta Ads, TikTok Ads, and LinkedIn Ads** via natural language.
+Cross-platform ad management plugin for Claude. Create, analyze, and optimize campaigns across **Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads** via natural language.
+
+> **Note:** Active development happens in the main repo at [amekala/ads-mcp](https://github.com/amekala/ads-mcp). This repo is kept as a stable, minimal plugin source. For the latest tools and skills, install from `amekala/ads-mcp`.
 
 ## Installation
 
@@ -12,14 +14,15 @@ Or browse for it in `/plugin > Discover` within Claude Code.
 
 ## What It Does
 
-**91 tools** across 4 ad platforms:
+**150+ tools** across 4 ad platforms:
 
-| Platform | Tools | Key Capabilities |
-|----------|-------|-----------------|
-| Google Ads | 39 | Keyword research, Search campaigns, Performance Max, performance analysis, asset management, ad extensions |
-| LinkedIn Ads | 28 | Sponsored content, lead gen forms, audience targeting, campaign analytics |
-| Meta Ads | 20 | Image campaigns, carousel campaigns, audience management, performance tracking |
-| TikTok Ads | 4 | In-feed campaigns, asset validation |
+| Platform | Key Capabilities |
+|----------|-----------------|
+| Google Ads | Keyword research, Search / PMax / YouTube / Demand Gen campaigns, wasted spend analysis, asset and extension management |
+| Meta Ads | Image / video / carousel / DCO campaigns, creative fatigue detection, audience insights, lead forms |
+| LinkedIn Ads | Image / video / carousel / text campaigns, engagement metrics, conversion rules, creative management |
+| TikTok Ads | In-feed image and video campaigns, asset discovery and validation |
+| Cross-platform | Conversion tracking audit, connection status, usage and quota visibility |
 
 ## Plugin Components
 

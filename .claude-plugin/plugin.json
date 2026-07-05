@@ -1,7 +1,7 @@
 {
   "name": "adspirer-ads-agent",
-  "description": "Ad campaign management for Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. Launch campaigns, analyze performance, detect wasted spend and creative fatigue, and audit conversion tracking — all via natural language.",
-  "version": "1.2.0",
+  "displayName": "Adspirer Ads Agent",
+  "description": "Ad campaign management for Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Amazon Ads, and ChatGPT Ads. 340+ tools for keyword research with live CPC data, campaign creation, performance analysis, wasted-spend and creative-fatigue detection, and budget optimization — all via natural language. Connects to Adspirer's remote MCP server (mcp.adspirer.com) with a free-account OAuth sign-in; ships skills, slash commands, and a performance-marketing agent — no hooks, no telemetry, and data flows only to Adspirer's own API. New campaigns are always created paused for human review.",
   "author": {
     "name": "Adspirer",
     "url": "https://www.adspirer.com"
@@ -9,5 +9,5 @@
   "homepage": "https://www.adspirer.com",
   "repository": "https://github.com/amekala/ads-mcp",
   "license": "MIT",
-  "keywords": ["advertising", "google-ads", "meta-ads", "linkedin-ads", "tiktok-ads", "campaigns", "ppc", "marketing", "performance-marketing", "mcp"]
+  "keywords": ["advertising", "ads", "google-ads", "meta-ads", "linkedin-ads", "tiktok-ads", "amazon-ads", "chatgpt-ads", "campaigns", "ppc", "paid-media", "marketing", "performance-marketing", "mcp"]
 }

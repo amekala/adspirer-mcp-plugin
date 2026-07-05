@@ -7,14 +7,14 @@
   "plugins": [
     {
       "name": "adspirer-ads-agent",
+      "displayName": "Adspirer Ads Agent",
       "source": "./",
-      "description": "Connect Claude Code to your ad accounts across Google Ads, Meta Ads, TikTok Ads, and LinkedIn Ads. 91 tools for keyword research, campaign creation, performance analysis, and budget optimization.",
-      "version": "1.1.0",
+      "description": "Connect Claude to your ad accounts across Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Amazon Ads, and ChatGPT Ads. 340+ tools for keyword research with live CPC data, campaign creation, performance analysis, wasted-spend and creative-fatigue detection, and budget optimization. Free-account OAuth; no hooks, no telemetry; new campaigns always created paused.",
       "author": {
         "name": "Adspirer",
         "email": "abhi@adspirer.com"
       },
-      "keywords": ["advertising", "google-ads", "meta-ads", "linkedin-ads", "tiktok-ads", "marketing"],
+      "keywords": ["advertising", "ads", "google-ads", "meta-ads", "linkedin-ads", "tiktok-ads", "amazon-ads", "chatgpt-ads", "ppc", "paid-media", "marketing"],
       "category": "marketing",
       "homepage": "https://www.adspirer.com",
       "repository": "https://github.com/amekala/ads-mcp",

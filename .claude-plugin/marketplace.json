@@ -1,5 +1,8 @@
 {
   "name": "adspirer",
+  "metadata": {
+    "description": "Adspirer paid media agent for Claude Code and Cowork. Create, analyze, and optimize ad campaigns across Google Ads, Meta, TikTok, LinkedIn, Amazon, and ChatGPT Ads."
+  },
   "owner": {
     "name": "Adspirer",
     "email": "abhi@adspirer.com"

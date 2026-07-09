@@ -38,8 +38,29 @@ Or browse for it in `/plugin > Discover` within Claude Code (search "ads" or "ad
 
 ### Skills & Agent
 
-- **ad-campaign-management** — campaign creation workflows, budget guidelines, platform-specific strategies, and safety rules
-- **performance-marketing-agent** — a brand-aware paid-media agent with persistent memory across sessions
+Thirteen skills, loaded on demand. Two set the ground rules and the rest specialize:
+
+**Foundational**
+
+- **adspirer-agent** — how a paid media agent behaves. Campaigns are created paused, nothing spends without your approval.
+- **adspirer-mcp** — the tool-call contract: the router two-step, per-platform account ids, budget units, quota.
+
+**Per platform** — `adspirer-google-ads`, `adspirer-meta-ads`, `adspirer-tiktok-ads`,
+`adspirer-linkedin-ads`, `adspirer-amazon-ads`, `adspirer-chatgpt-ads`
+
+**Cross-platform workflows** — `adspirer-launch`, `adspirer-performance-review`,
+`adspirer-optimize`, `adspirer-creative`
+
+**Product questions** — `adspirer-docs`
+
+Plus **adspirer-setup** to bootstrap a brand workspace, and **performance-marketing-agent**, a
+brand-aware agent with persistent memory across sessions.
+
+Some skills carry `references/` — the TikTok objective/pixel validity matrix, Meta creative specs,
+Google campaign types and bidding thresholds — which load only when the agent needs them.
+
+> Skills are generated from [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) under
+> `shared/skills/`. Edit them there, not here.
 
 ### MCP Server
 

@@ -1,8 +1,7 @@
 {
   "name": "adspirer-ads-agent",
   "displayName": "Adspirer Ads Agent",
-  "version": "2.1.1",
-  "description": "Ad campaign management for Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Amazon Ads, and ChatGPT Ads. 340+ tools for keyword research with live CPC data, campaign creation, performance analysis, wasted-spend and creative-fatigue detection, and budget optimization — all via natural language. Connects to Adspirer's remote MCP server (mcp.adspirer.com) with a free-account OAuth sign-in; ships skills, slash commands, and a performance-marketing agent — no hooks, no telemetry, and data flows only to Adspirer's own API. New campaigns are always created paused for human review.",
+  "description": "Ad campaign management for Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Amazon Ads, and ChatGPT Ads. 400+ tools for keyword research with live CPC data, campaign creation, performance analysis, wasted-spend and creative-fatigue detection, and budget optimization — all via natural language. Connects to Adspirer's remote MCP server (mcp.adspirer.com) with a free-account OAuth sign-in; ships skills, slash commands, and a performance-marketing agent — no hooks, no telemetry, and data flows only to Adspirer's own API. New campaigns are always created paused for human review.",
   "author": {
     "name": "Adspirer",
     "url": "https://www.adspirer.com"

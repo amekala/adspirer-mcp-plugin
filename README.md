@@ -14,7 +14,7 @@ Or browse for it in `/plugin > Discover` within Claude Code (search "ads" or "ad
 
 ## What It Does
 
-**340+ tools** across 6 ad platforms:
+**400+ tools** across 6 ad platforms:
 
 | Platform | Key Capabilities |
 |----------|-----------------|
